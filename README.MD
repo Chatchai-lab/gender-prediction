@@ -1,4 +1,4 @@
-# Gender Prediction – Exxeta Challenge
+# Gender Prediction –  Challenge
 
 ## Daten
 
